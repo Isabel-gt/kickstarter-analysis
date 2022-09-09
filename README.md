@@ -1,10 +1,10 @@
 # Kickstarting with Excel 
 
 ## Overview of Project
-Louise launched a crowdfunding campaign for a play called *Fever*. Her campaign almost achieved the fundraising goal. However, she wants to have more information about the outcome of other campaigns such as the outcomes of those projects in relation to their launch dates and their funding goals. 
+Louise launched a crowdfunding campaign for a play called *Fever*. Her campaign almost achieved the fundraising goal. However, she wants to have more information about other campaigns, such as the outcomes of those projects in relation to their launch dates and their funding goals. 
 
 ### Purpose
-The objective of this analysis is to give Louise more information about theater campaigns outcomes based on the two aspects mentioned above. Having a big data set with information about different types of projects will help us sort the information to help Louise. 
+The objective of this analysis is to give Louise more information about theater campaigns outcomes based on the two aspects mentioned above. Having a big data set with information about different types of projects will help to sort the information to help Louise. After sorting the data, it will be possible to make different visualization items to see the information in an effortless manner. The final step will be to draw different conclusions and analyze what are the best decisions Louise can make when launching another campaign. 
 
 ## Analysis and Challenges
 There were two analyses performed in order to achieve the purpose of this project. First, an analysis of outcomes based on launch date. The second was an analysis of outcomes based on funding goals. Nevertheless, there were certain difficulties encountered while executing the analyses. 
